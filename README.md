@@ -16,14 +16,14 @@
 
 
 
-#Desain UI
+# Desain UI
 
 <img width="1440" alt="Beranda" src="https://user-images.githubusercontent.com/72422073/143549722-e515acf2-be5b-4c3e-8148-cb6e2de14fa8.png">
 
 
 
 
-#Hasil Implementasi
+# Demo
 
 ![image](https://user-images.githubusercontent.com/72425140/143521018-bb97d5da-2373-4d90-82ef-97d89ddb40c6.png)
 ![image](https://user-images.githubusercontent.com/72425140/143521204-6058eccc-9690-424a-b04f-46459638733d.png)
